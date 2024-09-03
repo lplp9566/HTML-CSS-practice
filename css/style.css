@@ -1,0 +1,18 @@
+h1{color: blue;}
+.backrand{color: brown;
+cursor: copy;
+}
+#colorchange{color: rgb(0, 255, 242);
+font-size: 24px;}
+h1:hover{
+    color: darkgreen;
+}
+input[type ="text"]{
+    background-color: rgb(255, 0, 0);
+}
+input[type ="email"]{
+    background-color: rgb(0, 255, 115);
+}
+input[type ="number"]{
+    background-color: rgb(89, 0, 255);
+}
